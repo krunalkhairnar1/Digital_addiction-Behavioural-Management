@@ -1,0 +1,10 @@
+Total lines: 1196
+Corrupt lines (with replacement char): 1
+
+Line 1007:     # ── CONNECTED ─────────────────────────────────────────────────�
+
+--- Lines with potential string errors ---
+Line 355 [SPINNER]:     with st.spinner("Computing behavioral metrics..."):
+Line 459 [SPINNER]:     with st.spinner("Training ML models on dataset..."):
+Line 1022 [SPINNER]:         with st.spinner("📡 Fetching real-time usage data from your phone..."):
+Line 1162 [SPINNER]:             with st.spinner("Loading dataset..."):
