@@ -37,7 +37,6 @@ from adb_integration import (
     fetch_adb_battery, fetch_adb_screen_state,
     get_adb_status, AdbStatus, _find_adb,
 )
-from groq import Groq
 from openai import OpenAI
 import google.generativeai as genai
 # ── Page Config ──────────────────────────────────────────────────────────────
