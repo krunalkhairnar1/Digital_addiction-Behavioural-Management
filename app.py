@@ -37,8 +37,7 @@ from adb_integration import (
     fetch_adb_battery, fetch_adb_screen_state,
     get_adb_status, AdbStatus, _find_adb,
 )
-from openai import OpenAI
-import google.generativeai as genai
+
 # ── Page Config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="AdaptiveAI — Digital Addiction System",
